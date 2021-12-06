@@ -1,17 +1,22 @@
-<h2 align="center">Hi there 👋</h2>
-<p align="center">
-  I go by krymzin, a 16 y/o developer.
-</p>
+<h3 align="center">Hi there 👋</h3>
+
+-----
 
 <p align="center">
-  <a href="https://krymzin.me/gui">
-   <img src="/button.png?raw=true" width="200">
+  I go by krymzin, a 16 y/o developer.
+  <br>
+  <a href="https://krymzin.me/gui" style="padding: 20px; background-color: #282a36;">
+    Click here to go to my website
   </a>
 </p>
+
+---
   
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv-Patil&exclude_repo=FactSplore&theme=dracula"/>
 </p>
+
+---
   
 - Knowledge:
   - ```Python (Kivy)```
@@ -19,11 +24,15 @@
   - ```C++```
   - ```SQL (SQLite3, PostgreSQL)```
 
+---
+
 - To-learn:
   - ```Rust```
   - ```Python (machine learning)```
 
 I am somewhat familiar with ```C#, GDScript, QBasic```
+
+---
 
 Some of my projects - 
 <br>
@@ -38,6 +47,8 @@ Some of my projects -
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shiv-Patil&repo=website&theme=dracula" width="360">
   </a>
 </p>
+
+---
 
 <h2 align="center">My Github Stats</h3>
 <p align="center"> <br>
