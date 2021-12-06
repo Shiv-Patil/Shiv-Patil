@@ -1,6 +1,6 @@
 <h3 align="center">Hi there 👋</h3>
 
------
+---
 
 <p align="center">
   I go by krymzin, a 16 y/o developer.
