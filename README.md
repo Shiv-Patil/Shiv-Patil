@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://krymzin.me">
+  <a href="https://krymzin.me/gui" target="_blank">
    <img src="/button.png?raw=true" width="200">
   </a>
 </p>
