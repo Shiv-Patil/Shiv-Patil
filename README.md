@@ -13,7 +13,7 @@
 ---
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv-Patil&exclude_repo=FactSplore&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv-Patil&exclude_repo=FactSplore&hide=vue&theme=dracula"/>
 </p>
 
 ---
