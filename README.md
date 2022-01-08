@@ -24,13 +24,8 @@
   - ```C++```
   - ```SQL (SQLite3, PostgreSQL)```
 
----
 
-- To-learn:
-  - ```Rust```
-  - ```Python (machine learning)```
-
-I am somewhat familiar with ```C#, GDScript, QBasic```
+I am somewhat familiar with ```C#, GDScript, Rust```
 
 ---
 
