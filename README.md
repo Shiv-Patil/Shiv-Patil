@@ -1,31 +1,20 @@
-<h3 align="center">Hi there 👋</h3>
+<h3> Hi there 👋</h3>
 
----
-
-<p align="center">
-  I go by krymzin, a 16 y/o developer.
+<p>
+  I go by krymzin, am currently 17 and I like programming.
   <br>
   <a href="https://krymzin.me/gui" style="padding: 20px; background-color: #282a36;">
-    Click here to go to my website
+    My website
   </a>
 </p>
 
 ---
   
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv-Patil&exclude_repo=FactSplore&hide=vue&theme=dracula"/>
-</p>
-
----
-  
-- Knowledge:
-  - ```Python (Kivy)```
-  - ```Javascript (Vuejs)```
-  - ```C++```
-  - ```SQL (SQLite3, PostgreSQL)```
-
-
-I am somewhat familiar with ```C#, GDScript, Rust```
+- Languages I have used in the past:
+  - ```Python (kivy)```
+  - ```Javascript (React, vue, stuff...)```
+  - ```C++ (some CP)```
+  - ```Rust, C# (basics)```
 
 ---
 
@@ -38,8 +27,8 @@ Some of my projects -
   <a href="https://github.com/Shiv-Patil/Account-Safe">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shiv-Patil&repo=Account-Safe&theme=dracula" width="380">
   </a>
-  <a href="https://github.com/Shiv-Patil/website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shiv-Patil&repo=website&theme=dracula" width="360">
+  <a href="https://github.com/Shiv-Patil/website-old">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shiv-Patil&repo=website-old&theme=dracula" width="360">
   </a>
 </p>
 
