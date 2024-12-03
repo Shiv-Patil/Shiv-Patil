@@ -1,4 +1,1 @@
-`Discord: krymzin0311`  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shiv-Patil&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=180&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)  
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=epzusj9yyzaqqb3bucljjpq2j&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=epzusj9yyzaqqb3bucljjpq2j&redirect=true)
