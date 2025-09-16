@@ -1,2 +1,4 @@
-| <img align="center" src="https://readme-stats-nine-mauve.vercel.app/api?username=Shiv-Patil&show_icons=true&count_private=true&theme=highcontrast&hide_border=true&include_all_commits=true&cache_seconds=7200" alt="Krymzin's github stats" /> | <img align="center" src="https://readme-stats-nine-mauve.vercel.app/api/top-langs/?username=Shiv-Patil&layout=compact&theme=highcontrast&hide_border=true&hide=lua,javascript,css"/> |
-| ------------- | ------------- |
+https://krymzin.space
+
+
+![me](https://github.com/user-attachments/assets/cd2d4a2a-9849-4020-8415-c57e597453d1)
